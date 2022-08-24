@@ -22,7 +22,7 @@ and create postgres database with beeaver_db in your local database
 
 ## Running the API
 ```bash
-npm migrate
+npm run migrate
 npm run start
 ```
 
